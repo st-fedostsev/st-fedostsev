@@ -7,8 +7,8 @@ You can read more in my resume.
 
 
 <p align="left">
-  <a href="https://t.me/stepa_who"><img width="32" src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/128/telegram.png"></a>
-  <a href="https://vk.com/stepan_urfu"><img width="32" src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/128/vkontakte.png"></a>
+  <a href="https://t.me/st_fedostsev"><img width="32" src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/128/telegram.png"></a>
+  <a href="https://vk.com/st_fedostsev"><img width="32" src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/128/vkontakte.png"></a>
 </p>
 
 ## Languages:

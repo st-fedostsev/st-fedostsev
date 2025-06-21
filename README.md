@@ -3,7 +3,7 @@
 I am a 2rd year student at IRIT-RTF UrFU. I develop in different programming languages. 
 You can read more in my resume.
 
-[Resume](https://drive.google.com/file/d/1f8A4O_9sQaa5sL33Lh4lPcKfMbhvYh1S/view?usp=sharing)
+[Resume](https://drive.google.com/drive/folders/185NXvZkS-lU332bHXDkxOgUcikZG_66h?usp=sharing)
 
 
 <p align="left">
@@ -44,5 +44,5 @@ You can read more in my resume.
 
 ## My stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=extremalslayer-gh&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=extremalslayer-gh&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=extremalslayer-gh&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=st-fedostsev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=st-fedostsev&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=st-fedostsev&theme=tokyonight)

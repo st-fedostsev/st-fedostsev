@@ -15,6 +15,7 @@ You can read more in my resume.
 ![Frontend](https://img.shields.io/badge/Frontend-%23eaa14c?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,13 +25,11 @@ You can read more in my resume.
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 
-## Frameworks, Platforms and Libraries:
+## Frameworks and Libraries:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
+[![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 
 
@@ -48,7 +47,9 @@ You can read more in my resume.
 
 ## My stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=st-fedostsev&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=st-fedostsev&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=st-fedostsev&theme=tokyonight)
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; align-items: flex-start;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=st-fedostsev&theme=tokyonight&hide_border=false" width="100%" height="220px" style="margin:0;padding:0;border:0;display:block;" />
+  
 
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=st-fedostsev&theme=tokyonight&hide_border=false" width="30%" height="180px" style="margin:0;padding:0;border:0;display:block;" />  <img src="https://nirzak-streak-stats.vercel.app/?user=st-fedostsev&theme=tokyonight&hide_border=true"  height="180px"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-fedostsev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180px" style="margin:0;padding:0;border:0;display:block;" />
+</div>

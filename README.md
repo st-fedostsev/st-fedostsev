@@ -50,7 +50,7 @@ You can read more in my resume.
 ## My stats:
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; align-items: flex-start;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=st-fedostsev&theme=tokyonight&hide_border=false" width="100%" height="220px" style="margin:0;padding:0;border:0;display:block;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=st-fedostsev&theme=tokyonight&hide_border=false" height="220px" style="margin:0;padding:0;border:0;display:block;" />
   
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=st-fedostsev&theme=tokyonight&hide_border=false"  height="180px" style="margin:0;padding:0;border:0;display:block;" />  <img src="https://nirzak-streak-stats.vercel.app/?user=st-fedostsev&theme=tokyonight&hide_border=true"  height="180px"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-fedostsev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180px" style="margin:0;padding:0;border:0;display:block;" />
